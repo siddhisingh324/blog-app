@@ -2,6 +2,15 @@ en:
   errors:
     account_not_found: 'Email id is not registered please signup first.'
     field_empty: '%{field} field is empty.'
+    invalid_credentials: 'Email address or password does not match.'
 
   registration:
     success: 'User has been successfully registered.'
+
+  blog:
+    all_blogs: 'All blogs.'
+    not_found: 'Blog not found.'
+    single_blog: 'Blog has been successfully created.'
+    updated: 'Blog has been successfully updated.'
+    show: 'Blog'
+    destroy: 'Blog has been successfully removed.'

@@ -47,6 +47,13 @@ group :development do
   # gem "spring"
 end
 
+group :test do
+  gem 'rspec-rails'
+  gem 'factory_bot_rails'
+  gem 'faker'
+  gem 'rspec_api_documentation'
+end
+
 gem 'active_model_serializers'
 gem 'byebug'
 gem 'jwt'

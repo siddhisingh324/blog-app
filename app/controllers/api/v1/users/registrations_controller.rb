@@ -38,7 +38,6 @@ module Api
             return nil
           end
         end
->>>>>>> e470efb192355317fc41ccdb8c9e7fb8f0300dcb
       end
     end
   end
